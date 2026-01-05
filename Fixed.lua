@@ -14,14 +14,14 @@ local SMG = 4
 local MACRO_OFF = 6 -- Cai nut tat macro ghim tam
 --mode SMG chi dung cho: smg FULL PHU KIEN, m416-scar-ace32 FULL PHU KIEN, m249, mg3
 
---====== Keyboard key binds (Only Logitech G Keyboards) =========--
+--====== Logitech G Keyboards =========--
 
 local AR_Keyboard = nil
 local SMG_Keyboard = nil
 local MACRO_OFF_Keyboard = nil
 
--- For (LMB) only 1
--- For (RMB)+(LMB) 3
+--  (LMB)  1
+--  (RMB)+(LMB) 3
 
 local click = 3
 
