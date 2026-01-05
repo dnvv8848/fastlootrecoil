@@ -1,3 +1,3 @@
-#Ctrl + mouse button to turn on macro
+Ctrl + mouse button to turn on macro
 
-#Ctrl + chuột để bật macro
+Ctrl + chuột để bật macro
