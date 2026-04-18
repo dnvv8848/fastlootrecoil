@@ -9,8 +9,8 @@ local Fastloot = 5 -- Cai nut loot nhanh
 local SensSetting = 0.20432 -- Tang len de chuot keo nhieu, giam xuong de chuot keo it
 --====== Mouse key binds =========--
 
-local AR = 5 -- Cai nut bat macro ghim tam
-local SMG = 4 
+local AR = 4 -- Cai nut bat macro ghim tam
+local SMG = 5 
 local MACRO_OFF = 6 -- Cai nut tat macro ghim tam
 --mode SMG chi dung cho: smg FULL PHU KIEN, m416-scar-ace32 FULL PHU KIEN, m249, mg3
 
